@@ -6,10 +6,10 @@ This code sets up the RPi board with a motor shield connected to it, importing t
 
    ![Capture](pics/Capture.PNG)
 
-The code then spins a motor for 3 seconds, notes the time, then sleeps for 30 seconds. The code then sends the timestamp to dweetPro. 
+The python code spins a motor for 3 seconds, notes the time, then sleeps for 30 seconds. The code then sends the timestamp to dweetPro. 
 
    ![Capture1.1](pics/Capture1.1.PNG)
 
-That timestamp can then be visualized in a freeboard dashboard.
+That timestamp can be visualized in a freeboard™ dashboard.
 
    ![Capture4](pics/Capture4.PNG)
