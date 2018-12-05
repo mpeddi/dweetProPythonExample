@@ -12,6 +12,6 @@ The python code spins a motor for 3 seconds, notes the time, then sleeps for 30 
 
 That timestamp can be visualized in a freeboard™ dashboard.
 
-   ![Capture4](pics/Capture4.PNG)
+   ![spinDash3](pics/spinDash3.PNG)
 
 Read more about the project here: http://buglabs.tumblr.com/post/176850210186/how-to-connect-your-rpi-to-dweetpro
